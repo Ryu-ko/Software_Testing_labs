@@ -1,0 +1,12 @@
+info: Starting LitresTest suite {"timestamp":"2024-05-07T06:55:58.982Z"}
+info: Login successful {"timestamp":"2024-05-07T06:56:33.821Z"}
+info: Finishing LitresTest suite {"timestamp":"2024-05-07T06:56:33.857Z"}
+[2024-05-07T06:57:38.978Z] Starting LitresTest suite
+[2024-05-07T06:58:11.846Z] Login successful
+[2024-05-07T06:58:11.886Z] Finishing LitresTest suite
+[2024-05-07T06:59:00.860Z] Starting LitresTest suite
+[2024-05-07T06:59:33.603Z] Login successful
+[2024-05-07T06:59:33.647Z] Finishing LitresTest suite
+[2024-05-07T07:05:11.606Z] Starting Check добавление в корзину
+[2024-05-07T07:05:50.452Z] Login successful
+[2024-05-07T07:05:50.618Z] Finishing Check добавление в корзину
