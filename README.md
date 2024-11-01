@@ -1,3 +1,3 @@
-Lab 3-4
+Test Cases Lab 3-4
 
 https://github.com/Ryu-ko/Software_Testing_labs/wiki
